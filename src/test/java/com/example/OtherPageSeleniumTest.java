@@ -24,6 +24,7 @@ public class OtherPageSeleniumTest {
 	public void test() throws Exception {
 		//manually retrieve
 		System.out.println("blah blah from other");
+		System.out.println("just a change trigger");		
 		// fail("not done");
 	}
 
