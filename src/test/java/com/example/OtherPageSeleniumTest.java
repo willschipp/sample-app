@@ -23,7 +23,7 @@ public class OtherPageSeleniumTest {
 	@Test
 	public void test() throws Exception {
 		//manually retrieve
-		System.out.println("blah from other");
+		System.out.println("blah blah from other");
 		// fail("not done");
 	}
 
